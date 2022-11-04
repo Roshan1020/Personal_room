@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1002",
+        "name": "Room 1",
+        "rating": "4.5",
+        "purpose": "1:1 meeting",
+        "secondaryPurpose": "Onboarding initiatives",
+        "paid": "102",
+        "denomination": "EMG Tokens",
+        "date": "8/21/2022",
+        "duration": "31 min",
+        "attendees": "4"
+    },
+    {
+        "id": "1004",
+        "name": "Room 8",
+        "rating": "5.0",
+        "purpose": "1:1 meeting",
+        "secondaryPurpose": "Onboarding initiatives",
+        "paid": "0",
+        "denomination": "EMG tokens",
+        "date": "8/21/2022",
+        "duration": "12 min",
+        "attendees": "2"
+    },
+    {
+        "id": "1005",
+        "name": "Room 7",
+        "rating": "3.5",
+        "purpose": "Group meeting",
+        "secondaryPurpose": "Dev mentoring",
+        "paid": "76",
+        "denomination": "EMG tokens",
+        "date": "8/20/2022",
+        "duration": "55 min",
+        "attendees": "2"
+    },
+    {
+        "id": "1006",
+        "name": "Room 9",
+        "rating": "4.2",
+        "purpose": "Group meeting",
+        "secondaryPurpose": "Dev mentoring",
+        "paid": "76",
+        "denomination": "EMG tokens",
+        "date": "8/20/2022",
+        "duration": "43 min",
+        "attendees": "6"
+    },   
+    {
+        "id": "1003",
+        "name": "Room 3",
+        "rating": "4.0",
+        "purpose": "1:1 meeting",
+        "secondaryPurpose": "Onboarding initiatives",
+        "paid": "76",
+        "denomination": "EMG tokens",
+        "date": "8/20/2022",
+        "duration": "22 min",
+        "attendees": "2"
+    }
+]

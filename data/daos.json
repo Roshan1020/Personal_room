@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": "ETHGlobal",
+        "status": "9 available rooms",
+        "logo": "ethglobal.png",
+        "website": "ethglobal.com"
+    },
+    {
+        "id": 2,
+        "name": "Polygon",
+        "status": "8 available rooms",
+        "logo": "polygon.png",
+        "website": "https://polygon.technology/"
+    },
+    {
+        "id": 3,
+        "name": "WalletConnect",
+        "status": "7 available rooms",
+        "logo": "walletconnect.png",
+        "website": "https://walletconnect.com/"
+    },
+    {
+        "id": 4,
+        "name": "SuperFluid",
+        "status": "9 available rooms",
+        "logo": "superfluid.png",
+        "website": "https://www.superfluid.finance/home"
+    },
+    {
+        "id": 5,
+        "name": "IPFS & Filecoin",
+        "status": "8 available rooms",
+        "logo": "ipfs.png",
+        "website": "https://hackathons.filecoin.io/"
+    },
+    {
+        "id": 7,
+        "name": "Semaphore",
+        "status": "6 available rooms",
+        "logo": "semaphore.png",
+        "website": "https://semaphore.appliedzkp.org/"
+    },
+    {
+        "id": 7,
+        "name": "Starkware",
+        "status": "9 available rooms",
+        "logo": "starkware.png",
+        "website": "https://starkware.co/"
+    },
+   {
+        "id": 8,
+        "name": "Gnosis Chain",
+        "status": "7 available rooms",
+        "logo": "gnosis.png",
+        "website": "https://developers.gnosischain.com/"
+    }
+ 
+]
